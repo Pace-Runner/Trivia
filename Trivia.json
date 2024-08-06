@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is real haggis made of?",
+            "correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+            "incorrect_answers": [
+                "Sheep&#039;s Heart, Kidneys and Lungs",
+                "Sheep&#039;s Liver, Kidneys and Eyes",
+                "Whole Sheep"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which band released the album &quot;Sonic Highways&quot; in 2014?",
+            "correct_answer": "Foo Fighters",
+            "incorrect_answers": [
+                "Coldplay",
+                "Nickelback",
+                "The Flaming Lips"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In vanilla Minecraft, which of the following cannot be made into a block?",
+            "correct_answer": "Charcoal",
+            "incorrect_answers": [
+                "Coal",
+                "Wheat",
+                "String"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "RAM stands for Random Access Memory.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+            "correct_answer": "Fight Club",
+            "incorrect_answers": [
+                "The Island",
+                "Unthinkable",
+                "American Pie"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Where did the British Boy Band &quot;Bros&quot; come from?",
+            "correct_answer": "Camberley",
+            "incorrect_answers": [
+                "Guildford",
+                "Aldershot",
+                "Bagshot"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which football player is featured on the international cover version of the video game FIFA 16?",
+            "correct_answer": "Lionel Messi",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Wayne Rooney",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Human cells typically have how many copies of each gene?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "4",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "10",
+                "13",
+                "12"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;The Simpsons&quot;, where did Homer and Marge first meet?",
+            "correct_answer": "At Summer Camp",
+            "incorrect_answers": [
+                "At High School",
+                "At Church",
+                "At 742 Evergreen Terrace"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?",
+            "correct_answer": "Mining gear",
+            "incorrect_answers": [
+                "Clown costume",
+                "Santa suit",
+                "Police uniform"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of the first four titles of the &quot;Grand Theft Auto&quot; franchise started the series of iconic image grid cover arts?",
+            "correct_answer": "Grand Theft Auto III",
+            "incorrect_answers": [
+                "Grand Theft Auto",
+                "Grand Theft Auto II",
+                "Grand Theft Auto Vice City"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+            "correct_answer": "Carlos Sainz Jr.",
+            "incorrect_answers": [
+                "Daniil Kvyat",
+                "Jolyon Palmer",
+                "Rio Haryanto"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The historical city Timbuktu is located in which West African country?",
+            "correct_answer": "Mali",
+            "incorrect_answers": [
+                "Senegal",
+                "Niger",
+                "Burkina Faso"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+            "correct_answer": "Daft Punk",
+            "incorrect_answers": [
+                "deadmau5",
+                "Disclosure",
+                "DJ Shadow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which chemical element was originally known as Alabamine?",
+            "correct_answer": "Astatine",
+            "incorrect_answers": [
+                "Selenium",
+                "Antimony",
+                "Molybdenum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": ".at is the top-level domain for what country?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "Argentina",
+                "Australia",
+                "Angola"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Codemasters is the developer of the Gran Turismo series.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the Swedish word for &quot;window&quot;?",
+            "correct_answer": "F&ouml;nster",
+            "incorrect_answers": [
+                "H&aring;l",
+                "Sk&auml;rm",
+                "Ruta"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which album by American rapper Kanye West contained songs such as &quot;Love Lockdown&quot;, &quot;Paranoid&quot; and &quot;Heartless&quot;?",
+            "correct_answer": "808s &amp; Heartbreak",
+            "incorrect_answers": [
+                "Late Registration",
+                "The Life of Pablo",
+                "Graduation"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+            "correct_answer": "Wales",
+            "incorrect_answers": [
+                "Moldova",
+                "Czech Republic",
+                "Denmark"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+            "correct_answer": "Pancreas",
+            "incorrect_answers": [
+                "Kidney",
+                "Liver",
+                "Brain"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Mathematics",
+            "question": "What&#039;s the square root of 49?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "4",
+                "12",
+                "9"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "How many timezones does Russia have?",
+            "correct_answer": "11",
+            "incorrect_answers": [
+                "6",
+                "24",
+                "16"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+            "correct_answer": "center",
+            "incorrect_answers": [
+                "static",
+                "absolute",
+                "relative"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+            "correct_answer": "Toto",
+            "incorrect_answers": [
+                "Foreigner",
+                "Steely Dan",
+                "Journey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters was NOT planned to be playable for Super Smash Bros. 64?",
+            "correct_answer": "Peach",
+            "incorrect_answers": [
+                "Bowser",
+                "Mewtwo",
+                "King Dedede"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Who assassinated Archduke Franz Ferdinand?",
+            "correct_answer": "Gavrilo Princip",
+            "incorrect_answers": [
+                "Nedeljko \u010cabrinovi\u0107",
+                "Oskar Potiorek",
+                "Ferdinand Cohen-Blind"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following former Yugoslavian states is landlocked?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Croatia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+            "correct_answer": "8 Minutes",
+            "incorrect_answers": [
+                "6 Minutes",
+                "2 Minutes",
+                "12 Minutes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+            "correct_answer": "Pancreatic",
+            "incorrect_answers": [
+                "Bone",
+                "Liver",
+                "Stomach"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the first ever London Underground line to be built?",
+            "correct_answer": "Metropolitan Line",
+            "incorrect_answers": [
+                "Circle Line",
+                "Bakerloo Line",
+                "Victoria Line"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "In what Homestuck Update was [S] Game Over released?",
+            "correct_answer": "October 25th, 2014",
+            "incorrect_answers": [
+                "April 13th, 2009",
+                "April 8th, 2012",
+                "August 28th, 2003"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In Mulan (1998), who is the leader of the Huns?",
+            "correct_answer": "Shan Yu",
+            "incorrect_answers": [
+                "Chien-Po",
+                "Li Shang",
+                "Fa Zhou"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Sir Bobby Charlton",
+                "Ryan Giggs",
+                "David Beckham"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "When was the game &quot;Roblox&quot; released?",
+            "correct_answer": "2006",
+            "incorrect_answers": [
+                "2003",
+                "2002",
+                "2007"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The Sonoran Desert is located in eastern Africa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "In &quot;Mean Girls&quot;, who has breasts that tell when it&#039;s raining?",
+            "correct_answer": "Karen Smith",
+            "incorrect_answers": [
+                "Gretchen Weiners",
+                "Janice Ian",
+                "Cady Heron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+            "correct_answer": "Andrew Jackson",
+            "incorrect_answers": [
+                "Harry S. Truman",
+                "Martin Van Buren",
+                "John Quincy Adams"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "A positron is an antiparticle of a what?",
+            "correct_answer": "Electron",
+            "incorrect_answers": [
+                "Neutron",
+                "Proton",
+                "Photon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the Pack-A-Punched Crossbow?",
+            "correct_answer": "Awful Lawton",
+            "incorrect_answers": [
+                "Longinus",
+                "V-R11",
+                "Predator"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many voice channels does the Nintendo Entertainment System support natively?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "6",
+                "3"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "In which English county is the city of Portsmouth?",
+            "correct_answer": "Hampshire",
+            "incorrect_answers": [
+                "Oxfordshire",
+                "Buckinghamshire",
+                "Surrey"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "The Ottoman Empire was dissolved after their loss in which war?",
+            "correct_answer": "World War I",
+            "incorrect_answers": [
+                "Crimean War",
+                "Serbian Revolution",
+                "Second Balkan War"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the largest country in the world ?",
+            "correct_answer": "Russian Federation",
+            "incorrect_answers": [
+                "China",
+                "Canada",
+                "Brazil"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+            "correct_answer": "Gossypiboma",
+            "incorrect_answers": [
+                "Gongoozler",
+                "Jentacular",
+                "Meupareunia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+            "correct_answer": "Bull",
+            "incorrect_answers": [
+                "Pig",
+                "Ox",
+                "Horse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+            "correct_answer": "Partisan Eagle",
+            "incorrect_answers": [
+                "Blast Fencer",
+                "Winged Viper",
+                "Bastion Warrior"
+            ]
+        }
+    ]
+}
